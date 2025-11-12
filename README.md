@@ -1,11 +1,11 @@
-# photone-synth
-FPGA-based MIDI synthesizer for ambient tone generation with dual-voice polyphony and basic reverb processing (part of the Photone vision-controlled FPGA synthesizer system).
-
----
-
 [![License: CERN-OHL-W-2.0](https://img.shields.io/badge/License-CERN--OHL--W--2.0-blue.svg)](LICENSE)
 [![FPGA](https://img.shields.io/badge/FPGA-Verilog--2001-green.svg)]()
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
+
+---
+
+# photone-synth
+FPGA-based MIDI synthesizer for ambient tone generation with dual-voice polyphony and basic reverb processing (part of the Photone vision-controlled FPGA synthesizer system).
 
 ---
 
