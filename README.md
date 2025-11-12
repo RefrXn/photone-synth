@@ -77,7 +77,7 @@ MIDI In
 
 * The **MIDI interface** must comply with electrical standards; direct connection to FPGA UART pins without isolation or level shifting will **damage hardware**.
 
-* The **reverb** module uses **delayline IP cores** (Xilinx).
+* The **reverb** module uses **Block Memory Generator IP cores** (Xilinx).
   You may adjust tap depth and feedback parameters inside `reverb.v` for different effects.
 
 * The **WM8731 codec driver** is derived from **Alinx’s AN831 original example**.
