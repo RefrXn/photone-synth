@@ -95,34 +95,5 @@ MIDI In
 
 ---
 
-## License
-
-**CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0)**
-
-Copyright © 2025 RefrXn
-
-This source describes Open Hardware and is licensed under the CERN-OHL-S v2.
-
-You may redistribute and modify this documentation and design files under the terms of the CERN-OHL-S v2.
-A copy of the license is included in this repository in the file `LICENSE`, and may also be obtained at:
-[https://ohwr.org/cern_ohl_s_v2.txt](https://ohwr.org/cern_ohl_s_v2.txt)
-
-You are granted the right to:
-
-* Use, copy, modify, and distribute this design and documentation;
-* Manufacture products using the licensed material;
-* Convey modified or derivative works under the same license terms.
-
-You must:
-
-* Retain the copyright notice, license reference, and disclaimers in all copies;
-* Provide access to the modified source when you distribute or sell products based on it;
-* Clearly indicate the modifications you made and the date of modification.
-
-This license comes **without any warranty**, to the extent permitted by applicable law.
-See the full text of the license for detailed terms and conditions.
-
----
-
 本项目为 **南京邮电大学「电子之声」活动参赛作品**  
 
