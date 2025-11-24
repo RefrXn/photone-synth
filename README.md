@@ -125,5 +125,4 @@ See the full text of the license for detailed terms and conditions.
 ---
 
 本项目为 **南京邮电大学「电子之声」活动参赛作品**  
-**SPDX-License-Identifier:** CERN-OHL-S-2.0
 
